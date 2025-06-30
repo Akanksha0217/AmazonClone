@@ -20,7 +20,7 @@ This project is part of my journey to becoming a front-end web developer. It hel
 - Mastering CSS styling
 
 ## 🔗 Live Demo
- 👉 [Click here to view the site on Netlify](amazonclonewebpage.netlify.app)
+ 👉 [Click here to view the site on Netlify](https://amazonclonewebpage.netlify.app/)
   
 ## 📃 License
 This project is created for educational purposes only and is not intended for commercial use. All content and design inspiration is taken from Amazon.in.
