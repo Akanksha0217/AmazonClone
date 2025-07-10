@@ -11,6 +11,8 @@ This project is a **clone of the Amazon India homepage**, built using **HTML** a
 
 - **HTML5**
 - **CSS3**
+- ![HTML](https://img.shields.io/badge/HTML-61%25-orange)
+![CSS](https://img.shields.io/badge/CSS-39%25-blue)
   
   
 ## 🎯 Purpose
